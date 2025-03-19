@@ -1,4 +1,4 @@
 # vg-repository-
 this is my first git repository.
 <br>
-author - vivek
+author - vivek gupta
